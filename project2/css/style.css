@@ -1,0 +1,85 @@
+.aside-title {
+    border-left: .2em solid gray;
+    padding-left: .2em;
+}
+
+article {
+    margin: 20px;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    background-color: #FFFFFF;
+    padding: .2em;
+}
+
+body {
+    background-color: #DEDEDE;
+}
+
+#second-figure-div figure{
+	width: 20%;
+	border: .1em solid gray;
+	padding: .1em;
+	margin: .2em;
+	text-align: center;
+}
+
+img{
+	width: 80%;
+}
+
+body>#bodyHeader{
+    margin: 0;
+	background-color: #222629;
+
+}
+
+aside{
+background-color: white;
+padding-left: .2em;
+margin: 20px;   
+}
+
+footer{
+    width: 100%;
+    height: 20px;
+    background-color: black;
+    text-align: center;
+}
+
+footer>p{
+    color: white;
+}
+
+h3{
+    color: gray;
+}
+
+span{
+    color: gray;
+}
+
+nav{
+     float: right;
+}
+
+nav li{
+    float: left;
+    margin-right:2em;
+}
+
+.centerAlign{
+    text-align:center;
+}
+
+.headerImg{
+    width: 20%;
+    height: 50px;
+
+}
+
+.submitClass{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    height: 2em;
+}
